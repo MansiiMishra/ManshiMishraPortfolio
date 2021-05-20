@@ -290,7 +290,7 @@ section .title::after{
     height: 35vh;
     width: 400vw;
     background-size: contain;
-    background-image: url(images/Logo3.png);
+    background-image: url(Logo3.png);
     background-repeat: no-repeat; 
     position: absolute;
     top: 10vh;
